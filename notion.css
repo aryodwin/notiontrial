@@ -11,6 +11,7 @@ div.notion-topbar-mobile > div:nth-child(1n).toggle-mode { display: block !impor
 .notion-sub_sub_header-block .notion-link-token {
   padding: 16px 40px;
   border-radius: 8px;
+  box-shadow: -10px -10px 30px 0px #ffffff, 10px 10px 30px 0px #1d0dca17;
 }
 .notion-sub_sub_header-block .notion-link-token span {
     border: none !important;
